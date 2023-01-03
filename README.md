@@ -10,13 +10,13 @@ The self-attention (SA) and cross-attention (CA) units are shown in Fig. 2. To s
 <image src="maps/fig2.jpg" width="350">
 <br/><font>Fig. 2 Illustration of the self-attention and cross-attention units.</font>
 </p>
- 
 The structure of second-order pooling (SOP) is shown in Fig. 3, given an input feature tensor with size h×w×d, it is fed into SOP, which consists of two 1×1 convolutions, one transpose multiplication operator and one row-wise convolution, generating a 1×1×d global guided aggregation.
 <p align="center">
 <image src="maps/fig3.jpg" width="500">
 <br/><font>Fig. 3. Illustration of second-order pooling.</font>
 </p>
-## Results:
+ 
+# Fig 
 To evaluate the effectiveness of the proposed method, KAGS is compared with other thirteen state-of-the-art visual storytelling approaches on VIST and LSMDC datasets. The statistical results are shown in Table1. To further reflect the semantic properties of many stories (e.g., coherence and expressiveness), the human evaluation is conducted and the results are presented in Table2. Moreover, figure 4 presents several visual comparisons between the proposed KAGS model and the methods AREL and VSCMR, together with the human-annotated referenced stories (GT).
  <p align="center">
 <image src="maps/fig4.jpg" width="650">
