@@ -6,4 +6,7 @@ As shown in Fig. 1, the proposed KAGS is one-stage encoder-decoder structure, wi
 ![pipeline](https://github.com/Tongji-MIC-Lab/KAGS/blob/main/maps/fig1.jpg)
 Fig. 1. Overview of the proposed KAGS framework.
 The self-attention (SA) and cross-attention (CA) units are shown in Fig. 2. To selectively enhance the fine-grained visual and cross-modal representations, X-Linear attention block is applied to SA and CA units, followed by a point-wise addition, a linear layer and a BatchNorm layer.
-![fig2](https://github.com/Tongji-MIC-Lab/KAGS/blob/main/maps/fig2.jpg)
+<p align="center">
+<image src="source/fig2.jpeg" width="350">
+<br/><font>Fig. 2 Illustration of the self-attention and cross-attention units.</font>
+</p>
