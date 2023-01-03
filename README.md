@@ -27,7 +27,7 @@ To evaluate the effectiveness of the proposed method, KAGS is compared with othe
 <br/><font>Table2. Statistical results of human evaluation metrics on VIST, here the percentage numbers represent the confident scores of the tester believe that a model surpasses its opponent, and Tie means the tester can not choose the better story. </font>
 </p>
 <p align="center">
-<image src="maps/fig6.jpg" width="500">
+<image src="maps/fig6.jpg" width="800">
 <br/><font>Fig. 4. Visualization of the comparison between the proposed KAGS and other state-of-the-art methods including AREL, VSCMR and ground-truth on the VIST dataset. Only parts of the extracted commonsense knowledge graphs are visualized due to the space limit, where the words highlighted in red and blue represent the semantic seeds and commonsense words, respectively. </font>
 </p>
 
