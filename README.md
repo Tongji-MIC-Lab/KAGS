@@ -31,6 +31,11 @@ To evaluate the effectiveness of the proposed method, KAGS is compared with othe
 <br/><font>Fig. 4. Visualization of the comparison between the proposed KAGS and other state-of-the-art methods including AREL, VSCMR and ground-truth on the VIST dataset. Only parts of the extracted commonsense knowledge graphs are visualized due to the space limit, where the words highlighted in red and blue represent the semantic seeds and commonsense words, respectively. </font>
 </p>
 
+### Citation:
+
+Please cite the following paper if you use the code or feel it useful:
+Tengpeng Li, Hanli Wang, Bin He, Chang Wen Chen, Knowledge-enriched Attention Network with Group-wise Semantic for Visual Storytelling, IEEE Transactions on Pattern Analysis and Machine Intelligence, accepted, 2023.
+
 
  
 
