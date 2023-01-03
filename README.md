@@ -10,3 +10,9 @@ The self-attention (SA) and cross-attention (CA) units are shown in Fig. 2. To s
 <image src="maps/fig2.jpg" width="350">
 <br/><font>Fig. 2 Illustration of the self-attention and cross-attention units.</font>
 </p>
+ 
+The structure of second-order pooling (SOP) is shown in Fig. 3, given an input feature tensor with size h×w×d, it is fed into SOP, which consists of two 1×1 convolutions, one transpose multiplication operator and one row-wise convolution, generating a 1×1×d global guided aggregation.
+<p align="center">
+<image src="maps/fig3.jpg" width="350">
+<br/><font>Fig. 3. Illustration of second-order pooling.</font>
+</p>
