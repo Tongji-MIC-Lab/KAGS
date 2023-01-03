@@ -34,6 +34,7 @@ To evaluate the effectiveness of the proposed method, KAGS is compared with othe
 ### Citation:
 
 Please cite the following paper if you use the code or feel it useful:
+
 Tengpeng Li, Hanli Wang, Bin He, Chang Wen Chen, Knowledge-enriched Attention Network with Group-wise Semantic for Visual Storytelling, IEEE Transactions on Pattern Analysis and Machine Intelligence, accepted, 2023.
 
 
